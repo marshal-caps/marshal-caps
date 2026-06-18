@@ -16,7 +16,7 @@
 
 ---
 
-## // WHO AM I
+## WHO AM I
 
 ```
 BE Computer Science · Rathinam Technical Campus · 82% · Coimbatore
@@ -26,7 +26,7 @@ YOLOv8 · Spring Boot · React · Real-time APIs · EEG-controlled piano (yes, r
 
 ---
 
-## // ARSENAL
+## ARSENAL
 
 ![Java](https://img.shields.io/badge/Java-c0392b?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-0a0a0a?style=flat-square&logo=springboot&logoColor=6db33f)
@@ -36,7 +36,7 @@ YOLOv8 · Spring Boot · React · Real-time APIs · EEG-controlled piano (yes, r
 
 ---
 
-## // MISSIONS (PROJECTS)
+## MISSIONS (PROJECTS)
 
 **🏛️ RMJ Hall Admin — Booking Management System**
 > `Spring Boot` `React` `MySQL` `REST APIs`
@@ -52,7 +52,7 @@ IEEE Contest · Analog brainwave → musical output · Real-time
 
 ---
 
-## // CONNECT
+## CONNECT
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Marshall_Joshua-c0392b?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/marshall-joshua-351124375)
 [![GitHub](https://img.shields.io/badge/GitHub-marshal--caps-0a0a0a?style=flat-square&logo=github)](https://github.com/marshal-caps)
